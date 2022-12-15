@@ -1,0 +1,38 @@
+{% include head.html %}
+
+<body>
+<!--Coden för Navbaren-->
+  <div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="#news">Contact us</a>
+    <a href="#contact">How to sine up</a>
+    <a href="#about">About</a>
+    <a img src="/bilder/instagram.png"alt="Jane"></a> 
+  </div>
+
+
+<main>
+    {% for post in site.posts %}
+    <a href="{{post.url}}">
+        <div class="card">
+            <div class="img-holder"><img src="{{post.card-img}}"></div>
+            <div class="container">
+                <h2>{{post.title}}</h2>
+            
+            </div>
+        </div>
+      </a>  
+    {% endfor %}        
+</main> 
+
+<!------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+</body>
+
+</html>
+
+
+<!--https://www.topvisible.se/inbound-marketing/riktigt-bra-blogginlagg-steg-for-steg/  insperations sidan-->

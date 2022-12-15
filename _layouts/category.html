@@ -1,0 +1,26 @@
+
+{% include head.html %}
+
+<body>
+
+    <h1><a href="{{sute.url}}">{{site.title}}</a></h1>
+    <h2> Category - {{page.title}}</h2>
+    <section>
+        {% for category in site.categories%}
+            {% if category[0] == page.title %}
+                 <ul> 
+                     {% for post in catergory[1] %}
+                     <li><a heft="{{opst.url }}">{{ post.title }}</a></li>
+                      {% endfor %}
+                </ul>
+            {% endif %}
+        {% endfor %}
+    </section>
+
+  <ul>
+    {% for post in site.posts %}
+      <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+  </ul>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<div class="card">
+    <img src="/bilder/1.jpg" alt="Jane">
+    <div class="container">
+      <h2>Pumpking picture</h2>
+      <p class="title">Author: Jhoe</p>
+      <p>I am a felow Pumkin lover. I love Pumkins and I heking love drawing them! :D </p>
+      <p>ILovePumkins@Gmail.com</p>
+      <p><button class="button"><a href="">Read More</a></button></p>
+    </div>
+</div>
+<div class="card"></div>
+<div class="card"></div>
+</div>
+<div class="row">
+<div class="column"></div>
+<div class="column"></div>
+<div class="column"></div>
+</div>
+</main>
+<div class="row">
+<div class="column">
+<div class="card">
+<img src="/bilder/1.jpg" alt="Jane">
+<div class="container">
+  <h2>Pumpking picture</h2>
+  <p class="title">Author: Jhoe</p>
+  <p>I am a felow Pumkin lover. I love Pumkins and I heking love drawing them! :D </p>
+  <p>ILovePumkins@Gmail.com</p>
+  <p><button class="button"><a href="">Read More</a></button></p>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="column">
+<div class="card">
+<img src="/bilder/2.jpg" alt="Jane">
+<div class="container">
+  <h2>Pumkins With Hats!</h2>
+  <p class="title">Author: Kcarl</p>
+  <p>Hello felow Punkin enjoyers I love to express my self in Pumkins and especially when they have hats! </p>
+  <p>HatPumkinEnjoyer420@Gmail.com</p>
+  <p><button class="button"><a href="">Read more</a></button></p>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="column">
+<div class="card">
+<img src="/bilder/3.jpg" alt="Jane">
+<div class="container">
+  <h2>Pumkins in coloer!</h2>
+  <p class="title">Author: Hubert</p>
+  <p> I am a Pumkin in colers lover. I think colers makes Pumkins come even more to Life! :D </p>
+  <p>ColerEnjoyerWithPumkins@Gmail.com</p>
+  <p><button class="button">Read more</button></p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="column">
+<div class="card">
+<img  src="/bilder/4.jpg" >
+<div class="container">
+  <h2>Pumkins in forests</h2>
+  <p class="title">Author: Rodger</p>
+  <p>Hello I love Pumknins in forests. I like mean looking Pumkins and carving them to blend in to the enviorment</p>
+  <p>EnviormentLoverWithPumkins@Gmail.com</p>
+  <p><button class="button">Read more</button></p>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="column">
+<div class="card">
+<img  src="/bilder/5.jpg" >
+<div class="container">
+  <h2>Scary Pumkins</h2>
+  <p class="title">Author: Brian</p>
+  <p>I like to make to photograf Pumkins and eddit them to make them look scary! </p>
+  <p>ScaryPumkinMaker@Gmail.com</p>
+  <p><button class="button">Read more</button></p>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="column">
+<div class="card">
+<img  src="/bilder/6.jpg">
+<div class="container">
+  <h2>Pumkin Growing</h2>
+  <p class="title">Author: Frank</p>
+  <p>I like to grow Pumkins, plant Pumkins, eat Pumkins and I sometimes like to carve them! </p>
+  <p>LoverPumkinGrover@Gmail.com</p>
+  <p><button class="button">Read more</button></p>
+</div>
+</div>
+</div>
+</main>
